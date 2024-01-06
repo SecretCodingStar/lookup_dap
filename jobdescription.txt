@@ -1,0 +1,66 @@
+Backend/Frontend Developer
+Posted yesterday
+Worldwide
+--Time frame are 10 Days--
+
+**Task 1: Deposit Feature Enhancement**
+- Implement a random amount generation after the decimal point for deposit amounts.
+
+**Task 2: Favorite Numbers Section Enhancement**
+- Create a "Favorite Numbers" section where players can generate and save preferred numbers for lottery plays.
+
+**Task 3: VIP Bonus Count Enhancement**
+- Add a "VIP Bonus Chart" on the user homepage that displays rewards based on the number of games played.
+
+**Task 4: Thai Government Lottery Integration**
+- Automatically update lottery outcomes from the government's official homepage for the Thai government lottery section.
+- Calculate customer winnings based on the amount they invest in purchasing lottery numbers for bi-monthly draws.
+
+**Task 5: Yikki Lottery Integration**
+- Integrate the Yikki Lottery, including the Regular Player Room and VIP Player Room.
+- Allow players to participate in all 88 daily draws in both rooms.
+- Enable players to choose the quantity and pricing of their selected numbers, with different starting amounts for each game.
+
+**Task 6: Website Sections Overview**
+- Review the existing website, including the landing page area, user login, and admin section.
+- Ensure that all functions remain easily accessible and manageable from the admin section.
+
+**Task 7: SMS Verification Implementation**
+- Implement SMS verification and notifications for customers/players.
+- Set up an SMS module on the website to enhance security.
+
+$300.00
+
+Fixed-price
+Intermediate
+Experience Level
+Remote Job
+One-time project
+Project Type
+Contract-to-hire
+This job has the potential to turn into a full time role
+Skills and Expertise
+JavaScript
+HTML5
+PHP
+React
++ 2 more
+Activity on this job
+Proposals:
+5 to 10
+Last viewed by client:
+1 day ago
+Interviewing:
+3
+Invites sent:
+0
+Unanswered invites:
+0
+About the client
+Member since Jan 4, 2024
+Singapore
+3:21 AM
+1 job posted
+0% hire rate, 1 open job
+Tech & IT
+Small company (2-9 people)
