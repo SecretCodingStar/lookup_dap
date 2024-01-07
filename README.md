@@ -21,7 +21,7 @@ npx prettier --write .
 ```
 
 ## Project structure
-
+## project
 
 ## Useful Resources
 
