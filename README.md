@@ -19,6 +19,7 @@ You can reformat the project by running
 ```shell
 npx prettier --write .
 ```
+--prettier
 
 ## Project structure
 
